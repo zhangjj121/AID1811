@@ -64,4 +64,6 @@ def line(l):
         
 line(l)
 
-print('sd的方式都上帝给符合认同和高飞的')S
+print('sd的方式都上帝给符合认同和高飞的')
+def dd():
+    pass
